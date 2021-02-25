@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace NMEICheckSum
+namespace NMEACheckSum
 {
     public partial class Form1 : Form
     {
@@ -53,6 +53,11 @@ namespace NMEICheckSum
         private void button2_Click(object sender, EventArgs e)
         {
             Clipboard.SetDataObject(textBox2.Text);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 

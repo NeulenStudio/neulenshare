@@ -1,0 +1,7 @@
+C:\github\NMEACheckSum\NMEACheckSum\NMEACheckSum\obj\Debug\NMEACheckSum.Form1.resources
+C:\github\NMEACheckSum\NMEACheckSum\NMEACheckSum\obj\Debug\NMEACheckSum.csproj.GenerateResource.cache
+C:\github\NMEACheckSum\NMEACheckSum\NMEACheckSum\bin\Debug\NMEACheckSum.exe
+C:\github\NMEACheckSum\NMEACheckSum\NMEACheckSum\bin\Debug\NMEACheckSum.pdb
+C:\github\NMEACheckSum\NMEACheckSum\NMEACheckSum\obj\Debug\NMEACheckSum.Properties.Resources.resources
+C:\github\NMEACheckSum\NMEACheckSum\NMEACheckSum\obj\Debug\NMEACheckSum.exe
+C:\github\NMEACheckSum\NMEACheckSum\NMEACheckSum\obj\Debug\NMEACheckSum.pdb

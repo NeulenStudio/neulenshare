@@ -1,4 +1,4 @@
-﻿namespace NMEICheckSum
+﻿namespace NMEACheckSum
 {
     partial class Form1
     {
@@ -100,7 +100,8 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Neulen App-NMEICheckSum";
+            this.Text = "Neulen App-NMEACheckSum";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

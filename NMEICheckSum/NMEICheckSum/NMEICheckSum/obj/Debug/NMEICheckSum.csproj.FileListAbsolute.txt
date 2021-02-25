@@ -1,8 +1,0 @@
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\bin\Debug\NMEICheckSum.exe
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\bin\Debug\NMEICheckSum.pdb
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\obj\Debug\NMEICheckSum.csprojAssemblyReference.cache
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\obj\Debug\NMEICheckSum.Form1.resources
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\obj\Debug\NMEICheckSum.Properties.Resources.resources
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\obj\Debug\NMEICheckSum.csproj.GenerateResource.cache
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\obj\Debug\NMEICheckSum.exe
-C:\Users\neule\Desktop\NMEICheckSum\NMEICheckSum\NMEICheckSum\obj\Debug\NMEICheckSum.pdb
